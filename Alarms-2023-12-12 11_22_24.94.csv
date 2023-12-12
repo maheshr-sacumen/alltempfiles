@@ -1,2 +1,2 @@
 Intent,Strategy,Method,Time Received,Time Received ISO 8601,Time Created,Time Created ISO 8601,Priority,Alarm Status,Sources,Destinations,Source Users,Destination Users,Legacy Investigations,Sensors,Labels,Alarm Outcome,Event Name
-Environmental Awareness,Privilege Escalation,Alienvault alarm,"Thu, Nov 23 2023, 09:04 PM IST",2023-11-23T21:04:05.413,"Thu, Nov 23 2023, 09:04 PM IST",2023-11-23T21:04:03.819,Low,Open,one.one.one.one,2.2.2.2,,,,int2-m1-dev-sensor,,Undetermined,Set-AdminAuditLogConfig
+aaa,aaa,aaa,aaa,aaa,aaa,aaa,aaa,aaa,aaa,aaa,,,,aaa,,aaa,a
